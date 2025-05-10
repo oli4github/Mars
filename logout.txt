@@ -1,1 +1,2 @@
 JoeDex: Logout info into this logout.txt file
+This is the CONFLICTING part
